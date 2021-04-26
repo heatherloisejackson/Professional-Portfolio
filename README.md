@@ -18,7 +18,7 @@ Deploy my webpage by opening index.html in Google Chrome or opening the direct l
 
 ## Credits
 
-Github, Google, my classmates, and my instructor.
+Github, GoogleFonts, my classmates, and my instructor.
 
 
 License: MIT
