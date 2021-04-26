@@ -146,62 +146,42 @@ h2 img {
 .projectAPI {
     height: 250px;
     width: 100%;
-    background-image: url("../assets/amazulu.png");
+    background-image: url("../assets/flobiSearch-hover.png");
     background-size: 100%;
     background-position: top;
     background-repeat: no-repeat;
 }
 
-h3 {
-    text-align: center;
-    font-size: 30px;
-    color: white;
-    padding-top: 10%;
+.projectAPI:hover img {
     visibility: hidden;
-}
-
-.projectAPI:hover {
-    opacity: 0.10;
-}
-
-.projectAPI:hover h3 {
-    visibility: visible;
 }
 
 .weatherDash {
     height: 200px;
     width: 100%;
-    background-image: url("../assets/hw1.png");
+    background-image: url("../assets/WeatherDash-hover.png");
     background-size: 100%;
     background-position: top;
     background-repeat: no-repeat;
     margin-right: 2%;
 }
 
-.weatherDash:hover {
-    opacity: 0.25;
-}
-
-.weatherDash:hover h3 {
-    visibility: visible;
+.weatherDash:hover img {
+    visibility: hidden;
 }
 
 .workDay {
     height: 200px;
     width: 100%;
-    background-image: url("../assets/shopify.png");
+    background-image: url("../assets/WorkDay-hover.png");
     background-size: 100%;
     background-position: top;
     background-repeat: no-repeat;
     margin-left: 2%;
 }
 
-.workDay:hover {
-    opacity: 0.25;
-}
-
-.workDay:hover h3 {
-    visibility: visible;
+.workDay:hover img {
+    visibility: hidden;
 }
 
 .content ul {
