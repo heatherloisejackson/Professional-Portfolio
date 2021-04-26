@@ -143,7 +143,7 @@ h2 img {
     flex: 1
 }
 
-.amazulu {
+.projectAPI {
     height: 250px;
     width: 100%;
     background-image: url("../assets/amazulu.png");
@@ -160,15 +160,15 @@ h3 {
     visibility: hidden;
 }
 
-.amazulu:hover {
+.projectAPI:hover {
     opacity: 0.10;
 }
 
-.amazulu:hover h3 {
+.projectAPI:hover h3 {
     visibility: visible;
 }
 
-.hw1 {
+.weatherDash {
     height: 200px;
     width: 100%;
     background-image: url("../assets/hw1.png");
@@ -178,15 +178,15 @@ h3 {
     margin-right: 2%;
 }
 
-.hw1:hover {
+.weatherDash:hover {
     opacity: 0.25;
 }
 
-.hw1:hover h3 {
+.weatherDash:hover h3 {
     visibility: visible;
 }
 
-.shopify {
+.workDay {
     height: 200px;
     width: 100%;
     background-image: url("../assets/shopify.png");
@@ -196,11 +196,11 @@ h3 {
     margin-left: 2%;
 }
 
-.shopify:hover {
+.workDay:hover {
     opacity: 0.25;
 }
 
-.shopify:hover h3 {
+.workDay:hover h3 {
     visibility: visible;
 }
 
@@ -215,6 +215,10 @@ h3 {
 
 .content ul li a {
     font-style: italic;
+}
+
+.content ul li a:hover {
+    color: rgb(30, 138, 30);
 }
 
 footer {
