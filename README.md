@@ -23,5 +23,5 @@ Deploy my webpage by opening index.html in Google Chrome or opening this [link](
 Github, GoogleFonts, my classmates, and my instructor.
 
 
-License: MIT
+##
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
