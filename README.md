@@ -13,7 +13,7 @@ Deploy my webpage by opening index.html in Google Chrome or opening this [link](
 
 ## Usage
 
-![Heather's webpage part 1](https://github.com/heatherloisejackson/Professional-Portfolio/blob/main/assets/Screen%20Shot%202021-03-14%20at%2011.49.21%20PM.png)
+![Heather's webpage part 1](https://github.com/heatherloisejackson/Professional-Portfolio/blob/main/assets/ProfPortMobile.PNG)
 ![Heather's webpage as desktop](https://github.com/heatherloisejackson/Professional-Portfolio/blob/main/assets/Screen%20Shot%202021-04-26%20at%207.17.48%20PM.png)
 
 ## Credits
