@@ -9,7 +9,7 @@ Here I used my efficiant HTML and CSS skills to put together my own professional
 
 ## Installation
 
-Deploy my webpage by opening index.html in Google Chrome or opening the direct link to the application.
+Deploy my webpage by opening index.html in Google Chrome or opening this [link](https://heatherloisejackson.github.io/Professional-Portfolio/)
 
 ## Usage
 
